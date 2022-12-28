@@ -1,0 +1,174 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #faf5f5;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+  width: 370px;
+  background: #264653;
+}
+
+.photo {
+  margin: 25px 0 0 0;
+}
+
+.header2 {
+  color: #ffffff;
+}
+
+.contact-links {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.link {
+  color: #2a9d8f;
+}
+
+.list2 {
+  color: #e9c46a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list2-item {
+  color: #ffffff;
+}
+
+.contact-block {
+  margin: 51px 0 0 40px;
+}
+
+.tech-skills-block {
+  margin: 47px 0 0 40px;
+}
+
+.soft-skill-block {
+  margin: 44px 0 0 40px;
+}
+
+main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+  width: 400px;
+  margin-bottom: 40px;
+}
+
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.main-projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+
+.header-primar {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+
+.job-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.highlight {
+  color: #e9c46a;
+}
+
+.work-time {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.list-work {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.second-job {
+  margin-top: 16px;
+  margin-bottom: 20px;
+  width: 525px;
+}
+
+.job {
+  width: 525px;
+}
+
+.education-block {
+  width: 525px;
+  margin-top: 43px;
+  margin-bottom: 50px;
+}
+
+.university-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.subject {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
